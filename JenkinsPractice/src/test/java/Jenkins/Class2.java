@@ -14,5 +14,10 @@ public class Class2
 	{
 		System.out.println("---edit---");
 	}
+	@Test
+	public void manipulate()
+	{
+		System.out.println("---manipulate---");
+	}
 
 }
